@@ -132,8 +132,8 @@ aside ul li a:hover{
 /* products */
 div.products {
     float: right;
-    width: 750px;
-    height: 350px;
+    width: 76%;
+    height: 90%;
     text-align: center;
     margin: 20px 0px 10px -10px;
     background-color: rgb(231, 227, 227);
